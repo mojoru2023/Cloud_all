@@ -1,0 +1,16 @@
+
+
+Ali  47.105.163.6  Mi..
+
+
+linode  139.162.19.43 12..+..
+
+30 12 * * * user command
+
+/root/JapanCupid_s 
+
+details.py
+
+
+aws  greenbirch2007  291109028@qq.com Mi..
+
